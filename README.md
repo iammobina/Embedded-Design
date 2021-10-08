@@ -7,6 +7,7 @@ In this project, forconnecting to the Internet, we use the ESP8266-01 module, wh
 ## Language
 The Project is written for arduino uno.
 
+[View the document for more information ](Report.pdf)
 ## Images
 <img src="embedded project.png"></img> 
 <img src="final page project.png"></img> 
